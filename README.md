@@ -2,7 +2,7 @@
  Fortnite Modding Project For Version 9.10
 
 
-Download Ue build here: [Link](https://drive.usercontent.google.com/download?id=18_WeNsO-NSCEP-WNFmmi2ugSUSfEbsgQ&export=download)
+Download Ue build [here](https://drive.usercontent.google.com/download?id=18_WeNsO-NSCEP-WNFmmi2ugSUSfEbsgQ&export=download)
 
 # Installation
 
@@ -16,3 +16,6 @@ Unreal Engine Installer Right click the FortniteGame.uproject and Switch Unreal 
 Right click the FortniteGame.uproject and Generate Visual Studio Project Files then open the FortniteGame.sln and build the Project with Visual Studio
 
 Now launch the Project by launching the FortniteGame.uproject
+
+
+Join Discord [here](https://discord.gg/VdzhVAg8)
